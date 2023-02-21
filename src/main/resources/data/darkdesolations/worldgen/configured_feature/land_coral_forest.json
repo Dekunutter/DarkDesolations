@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:simple_random_selector",
+  "config": {
+    "features": [
+      {
+        "feature": {
+          "type": "darkdesolations:land_claw_coral",
+          "config": {}
+        },
+        "placement": []
+      },
+      {
+        "feature": {
+          "type": "darkdesolations:land_tree_coral",
+          "config": {}
+        },
+        "placement": []
+      },
+      {
+        "feature": {
+          "type": "darkdesolations:land_mushroom_coral",
+          "config": {}
+        },
+        "placement": []
+      }
+    ]
+  }
+}

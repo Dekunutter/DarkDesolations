@@ -1,0 +1,37 @@
+{
+  "entity.coralfish.ambient": {
+    "sounds": [
+      {
+        "name": "darkdesolations:entity/coralfish/ambient"
+      }
+    ]
+  },
+  "entity.coralfish.eat": {
+    "sounds": [
+      {
+        "name": "darkdesolations:entity/coralfish/eat"
+      }
+    ]
+  },
+  "entity.coralfish.hurt": {
+    "sounds": [
+      {
+        "name": "darkdesolations:entity/coralfish/hurt"
+      }
+    ]
+  },
+  "entity.coralfish.death": {
+    "sounds": [
+      {
+        "name": "darkdesolations:entity/coralfish/death"
+      }
+    ]
+  },
+  "entity.coralfish.step": {
+    "sounds": [
+      {
+        "name": "darkdesolations:entity/coralfish/step"
+      }
+    ]
+  }
+}
